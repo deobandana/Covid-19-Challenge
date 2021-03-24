@@ -1,6 +1,6 @@
 ### Topic:Covid-19-Project
 
-[Covid Virus](covid.png)
+[Covid Virus](covid.jpg)
 
  COVID-19 is a new disease, caused by a novel (or new) coronavirus that has not previously been seen in humans.
  Because it is a new virus, scientists are learning more each day. 
