@@ -84,8 +84,8 @@ URL
 5)Comparing China with four different countries of theirs recovery cases.
 6)
 
-1.) Study of Confirmed Case ,Death Case and Recovered Case for Moste Affected 5 Country 
+1) Study of Confirmed Case ,Death Case and Recovered Case for Moste Affected 5 Country 
 2 ) Comparing Confirmed Case For each five Country and find Highest and lowest Among them 
 2 ) Comparing Death Case For each five Country and find Highest and lowest Among them
 2 ) Comparing Recovered  Case For each five Country and find Highest and lowest Among them
-5.) Find Mote affected and least affected amomg these 5 countries. 
+5) Find Mote affected and least affected amomg these 5 countries. 
