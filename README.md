@@ -67,7 +67,15 @@ These are the symptoms that are reported by most of the patients. Apart from the
 
 Resources:- https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases#
 
+The data is from 1/22/2020 to 3/1/2021 i.e January 22th to March first of 2021
+
 [Bandana Deo](https://github.com/deobandana)
 
 
-## Questions: 
+## Questions: For Findings
+1)Converting the data into list.
+2)Finding the locations of China in dataframe?
+3)Comparing the four different countries i.e US,Spain,Italy and Germany according to confirmed , recovery and deaths cases.
+4)Comparing the cases of China along with confirmed,recovered and deaths cases because of it's origination.
+5)Comparing China with four different countries of theirs recovery cases.
+6)
