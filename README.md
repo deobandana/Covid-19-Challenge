@@ -38,16 +38,6 @@ Since the outbreak of COVID-19, over 2,940,000 people have been infected through
 7. Javscript
 8. Github
 
-* [Development Process](#development-process  utilized an API from the Whale Museum, which contained data in geoJSON format as well as city information, pod information, and day of sighting. We scraped the API, pulled it into PostgreSQL, used Sqlalchemy to connect to the database, and rendered our own API and routes using Flask. From here, we were able to build our website and create visualizations using Leaflet and Plotly. Finally, we utilized Heroku to deploy our website through Github. The following images are a few of the visualzations we created for our website:
-1. ![Pod Bar Chart](Images/pod_bar.png)
-This bar chart shows that J Pod is usually spotted within their own pod, whereas K and L are usually spotted with other pods.
-2. ![J Pod Pie](Images/j_pod_pie.png)
-Pie chart shows the percentages of times the J Pod is found alone versus with other pods. The website contains a dropdown menu to navigate between each pod. 
-3. ![Sightings Map](Images/map_img.png)
-This interactive map shows the many orca sightings within our dataset as well as 3 of the other 5 marine mammals sighted.
-3. ![Most Active Locations](Images/active_locations.png)
-This chart shows Friday Harbor is by far the location with the most sightings compared to the rest of the locations. 
-
 
 At first I took  Covid-19 data from this Url https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases#, which contained the confirmed,recovery and deaths csv data of different countries.Then after I convert all the data into dataframe in list.And after that compare the confirmed,recovered and deaths cases of five most affected countries US, Italy, Spain , Germany and China and the different visualzations we created.Finally, I utilized the website through GitHub to Visualise it.
 
