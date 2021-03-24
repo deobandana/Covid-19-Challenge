@@ -1,4 +1,7 @@
 ### Topic:Covid-19-Project
+
+[Covid Virus](covid.png)
+
  COVID-19 is a new disease, caused by a novel (or new) coronavirus that has not previously been seen in humans.
  Because it is a new virus, scientists are learning more each day. 
  Although most people who have COVID-19 have mild symptoms, COVID-19 can also cause severe illness and even death.
@@ -69,7 +72,8 @@ Resources:- https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases#
 
 The data is from 1/22/2020 to 3/1/2021 i.e January 22th to March first of 2021
 
-[Bandana Deo](https://github.com/deobandana)
+URL
+ https://deobandana.github.io/Covid-19-Challenge/
 
 
 ## Questions: For Findings
