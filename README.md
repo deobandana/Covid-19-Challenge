@@ -41,18 +41,6 @@ Since the outbreak of COVID-19, over 2,940,000 people have been infected through
 
 At first I took  Covid-19 data from this Url https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases#, which contained the confirmed,recovery and deaths csv data of different countries.Then after I convert all the data into dataframe in list.And after that compare the confirmed,recovered and deaths cases of five most affected countries US, Italy, Spain , Germany and China and the different visualzations we created.Finally, I utilized the website through GitHub to Visualise it.
 
-1. ![Pie Chart](pieconfirmed.png)
-This Pie chart shows that Highest Confirmed case in : US
-Lowest Confirmed cases in : China
-
-2. ![Pie Chart](pierecover.png)
-This Pie chart shows that Most Recovered cases in : Spain
-Least Recovered cases in : US
-
-3. ![Pie Chart](piedeaths.png)
-This Pie chart shows that Most Death cases in : US
-Least Deaths cases in : China
-
 
 
 [Data Sources](#data-sources)
