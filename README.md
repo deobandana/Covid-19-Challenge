@@ -27,7 +27,7 @@ WHO has also declared the COVID-19 as a pandemic.
 
 Since the outbreak of COVID-19, over 2,940,000 people have been infected throughout the world and over 203,822 people have been killed.
 
-* [Technologies](#technologies)
+* [Technologies]
 # Technologies
 1. Python
 2. Pandas
