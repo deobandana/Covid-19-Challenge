@@ -8,7 +8,7 @@
 * [Development](#development-team)
 
 
-covid.jpg
+
 [Introduction](#introduction)
 
  COVID-19 is a new disease, caused by a novel (or new) coronavirus that has not previously been seen in humans.
@@ -51,18 +51,17 @@ This chart shows Friday Harbor is by far the location with the most sightings co
 
 At first I took  Covid-19 data from this Url https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases#, which contained the confirmed,recovery and deaths csv data of different countries.Then after I convert all the data into dataframe in list.And after that compare the confirmed,recovered and deaths cases of five most affected countries US, Italy, Spain , Germany and China and the different visualzations we created.Finally, I utilized the website through GitHub to Visualise it.
 
-1. ![Pod Bar Chart](pieconfirmed.png)
-This bar chart shows that J Pod is usually spotted within their own pod, whereas K and L are usually spotted with other pods.
-2. ![J Pod Pie](Images/j_pod_pie.png)
-Pie chart shows the percentages of times the J Pod is found alone versus with other pods. The website contains a dropdown menu to navigate between each pod. 
-3. ![Sightings Map](Images/map_img.png)
-This interactive map shows the many orca sightings within our dataset as well as 3 of the other 5 marine mammals sighted.
-3. ![Most Active Locations](Images/active_locations.png)
-This chart shows Friday Harbor is by far the location with the most sightings compared to the rest of the locations. 
+1. ![Pie Chart](pieconfirmed.png)
+This Pie chart shows that Highest Confirmed case in : US
+Lowest Confirmed cases in : China
 
+2. ![Pie Chart](pierecover.png)
+This Pie chart shows that Most Recovered cases in : Spain
+Least Recovered cases in : US
 
-
-
+3. ![Pie Chart](piedeaths.png)
+This Pie chart shows that Most Death cases in : US
+Least Deaths cases in : China
 
 
 
